@@ -30,7 +30,13 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '*/5 * * * *'
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+ 
+user-agent: andrespitt 
