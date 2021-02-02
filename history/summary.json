@@ -22,19 +22,19 @@
     "url": "https://vstream.ie",
     "icon": "https://favicons.githubusercontent.com/vstream.ie",
     "slug": "v-stream",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 465,
-    "timeWeek": 715,
-    "timeMonth": 666,
-    "timeYear": 612,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 608,
+    "timeDay": 460,
+    "timeWeek": 682,
+    "timeMonth": 660,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2021-02-02": 0
+      "2021-02-02": 17
     }
   },
   {
