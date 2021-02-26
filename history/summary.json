@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2399,
-    "timeDay": 2287,
-    "timeWeek": 2327,
-    "timeMonth": 2373,
-    "timeYear": 2399,
+    "time": 2396,
+    "timeDay": 2182,
+    "timeWeek": 2353,
+    "timeMonth": 2371,
+    "timeYear": 2396,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 608,
-    "timeDay": 758,
-    "timeWeek": 548,
+    "time": 610,
+    "timeDay": 765,
+    "timeWeek": 602,
     "timeMonth": 630,
-    "timeYear": 608,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2021-02-02": 17
     }
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/pharmacomms.tv",
     "slug": "pharmacomms",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 4065,
-    "timeDay": 3367,
-    "timeWeek": 4121,
-    "timeMonth": 4069,
-    "timeYear": 4065,
-    "dailyMinutesDown": {
-      "2021-02-25": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4052,
+    "timeDay": 3180,
+    "timeWeek": 4058,
+    "timeMonth": 4039,
+    "timeYear": 4052,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
