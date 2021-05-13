@@ -42,9 +42,9 @@
     "url": "https://pharmacomms.tv/",
     "icon": "https://favicons.githubusercontent.com/pharmacomms.tv",
     "slug": "pharmacomms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 3928,
     "timeMonth": 3665,
     "timeYear": 3896,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-13": 0
+    }
   },
   {
     "name": "Broken Site",
