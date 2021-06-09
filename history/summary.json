@@ -4,10 +4,10 @@
     "url": "https://vstreamhealth.com/",
     "icon": "https://favicons.githubusercontent.com/vstreamhealth.com",
     "slug": "v-stream-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.59%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "96.58%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.85%",
     "time": 2306,
@@ -16,6 +16,7 @@
     "timeMonth": 2188,
     "timeYear": 2306,
     "dailyMinutesDown": {
+      "2021-06-09": 0,
       "2021-06-06": 49,
       "2021-06-04": 295
     }
