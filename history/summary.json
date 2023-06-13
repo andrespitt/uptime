@@ -8,13 +8,13 @@
     "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.41%",
+    "uptimeMonth": "78.68%",
     "uptimeYear": "97.15%",
     "time": 1435,
-    "timeDay": 1449,
-    "timeWeek": 1505,
-    "timeMonth": 1257,
-    "timeYear": 1468,
+    "timeDay": 1593,
+    "timeWeek": 1546,
+    "timeMonth": 1290,
+    "timeYear": 1469,
     "dailyMinutesDown": {
       "2023-05-19": 804,
       "2023-05-18": 1440,
@@ -27,8 +27,7 @@
       "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1068,
-      "2022-06-14": 121,
-      "2022-06-13": 16
+      "2022-06-14": 121
     }
   },
   {
@@ -42,16 +41,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1438,
-    "timeDay": 734,
-    "timeWeek": 941,
-    "timeMonth": 1006,
-    "timeYear": 1165,
+    "time": 1435,
+    "timeDay": 957,
+    "timeWeek": 971,
+    "timeMonth": 1002,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2023-01-25": 49,
       "2022-08-14": 16,
-      "2022-06-14": 119,
-      "2022-06-13": 13
+      "2022-06-14": 119
     }
   },
   {
@@ -60,16 +58,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pharmacomms.tv.ico",
     "slug": "pharmacomms",
     "status": "up",
-    "uptime": "90.64%",
+    "uptime": "90.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "77.35%",
-    "time": 3641,
-    "timeDay": 1377,
-    "timeWeek": 1633,
-    "timeMonth": 3367,
-    "timeYear": 3406,
+    "time": 3638,
+    "timeDay": 1738,
+    "timeWeek": 1661,
+    "timeMonth": 3359,
+    "timeYear": 3395,
     "dailyMinutesDown": {
       "2023-05-21": 18,
       "2023-05-18": 33,
