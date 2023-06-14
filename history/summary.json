@@ -8,13 +8,13 @@
     "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.68%",
-    "uptimeYear": "97.15%",
-    "time": 1435,
-    "timeDay": 1593,
-    "timeWeek": 1546,
-    "timeMonth": 1290,
-    "timeYear": 1469,
+    "uptimeMonth": "81.97%",
+    "uptimeYear": "97.17%",
+    "time": 1436,
+    "timeDay": 1576,
+    "timeWeek": 1533,
+    "timeMonth": 1323,
+    "timeYear": 1472,
     "dailyMinutesDown": {
       "2023-05-19": 804,
       "2023-05-18": 1440,
@@ -26,8 +26,7 @@
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
-      "2023-05-09": 1068,
-      "2022-06-14": 121
+      "2023-05-09": 1068
     }
   },
   {
@@ -40,16 +39,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1435,
-    "timeDay": 957,
-    "timeWeek": 971,
-    "timeMonth": 1002,
-    "timeYear": 1164,
+    "uptimeYear": "99.98%",
+    "time": 1431,
+    "timeDay": 752,
+    "timeWeek": 923,
+    "timeMonth": 994,
+    "timeYear": 1153,
     "dailyMinutesDown": {
       "2023-01-25": 49,
-      "2022-08-14": 16,
-      "2022-06-14": 119
+      "2022-08-14": 16
     }
   },
   {
@@ -58,16 +56,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pharmacomms.tv.ico",
     "slug": "pharmacomms",
     "status": "up",
-    "uptime": "90.65%",
+    "uptime": "90.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "77.35%",
-    "time": 3638,
-    "timeDay": 1738,
-    "timeWeek": 1661,
-    "timeMonth": 3359,
-    "timeYear": 3395,
+    "time": 3632,
+    "timeDay": 1718,
+    "timeWeek": 1643,
+    "timeMonth": 3348,
+    "timeYear": 3386,
     "dailyMinutesDown": {
       "2023-05-21": 18,
       "2023-05-18": 33,
