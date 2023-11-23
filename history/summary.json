@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.18%",
     "time": 1540,
-    "timeDay": 1734,
-    "timeWeek": 1752,
+    "timeDay": 0,
+    "timeWeek": 1734,
     "timeMonth": 1756,
     "timeYear": 1629,
     "dailyMinutesDown": {
@@ -41,10 +41,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1116,
-    "timeDay": 1391,
-    "timeWeek": 1084,
+    "timeDay": 0,
+    "timeWeek": 1060,
     "timeMonth": 1067,
-    "timeYear": 1128,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2023-09-09": 1059,
       "2023-09-08": 315,
@@ -58,17 +58,16 @@
     "slug": "pharmacomms",
     "status": "up",
     "uptime": "92.03%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "78.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "78.84%",
     "time": 3930,
-    "timeDay": 4349,
-    "timeWeek": 5622,
+    "timeDay": 3772,
+    "timeWeek": 5795,
     "timeMonth": 4598,
     "timeYear": 3838,
     "dailyMinutesDown": {
-      "2023-11-22": 14,
       "2023-11-13": 17,
       "2023-11-09": 51,
       "2023-11-08": 30,
@@ -173,8 +172,7 @@
       "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
-      "2022-11-24": 1440,
-      "2022-11-23": 1440
+      "2022-11-24": 1440
     }
   },
   {
