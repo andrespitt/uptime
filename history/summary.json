@@ -6,9 +6,9 @@
     "slug": "v-stream-health",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.18%",
     "time": 1546,
     "timeDay": 1996,
@@ -16,7 +16,6 @@
     "timeMonth": 1765,
     "timeYear": 1633,
     "dailyMinutesDown": {
-      "2023-11-27": 8,
       "2023-05-19": 804,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -62,7 +61,7 @@
     "uptimeDay": "98.28%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "80.18%",
+    "uptimeYear": "80.20%",
     "time": 4101,
     "timeDay": 6851,
     "timeWeek": 8075,
@@ -169,8 +168,7 @@
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
-      "2022-11-29": 1440,
-      "2022-11-28": 1440
+      "2022-11-29": 1440
     }
   },
   {
