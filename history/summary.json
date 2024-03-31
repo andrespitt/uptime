@@ -35,19 +35,19 @@
     "url": "https://vstream.ie",
     "icon": "https://icons.duckduckgo.com/ip3/vstream.ie.ico",
     "slug": "v-stream",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.73%",
-    "time": 1331,
-    "timeDay": 1886,
-    "timeWeek": 2096,
-    "timeMonth": 2150,
-    "timeYear": 1348,
+    "time": 1334,
+    "timeDay": 2372,
+    "timeWeek": 2191,
+    "timeMonth": 2173,
+    "timeYear": 1352,
     "dailyMinutesDown": {
-      "2024-03-31": 24,
+      "2024-03-31": 53,
       "2023-09-09": 1059,
       "2023-09-08": 315
     }
@@ -57,9 +57,9 @@
     "url": "https://pharmacomms.tv/",
     "icon": "https://icons.duckduckgo.com/ip3/pharmacomms.tv.ico",
     "slug": "pharmacomms",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "92.95%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "94.35%",
     "uptimeWeek": "97.19%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "99.56%",
@@ -69,6 +69,7 @@
     "timeMonth": 6866,
     "timeYear": 5211,
     "dailyMinutesDown": {
+      "2024-03-31": 0,
       "2024-03-30": 102,
       "2024-03-29": 38,
       "2024-03-28": 21,
@@ -123,7 +124,7 @@
       "2023-12-11": 37,
       "2023-12-10": 22,
       "2023-12-08": 19,
-      "2023-12-07": 40
+      "2023-12-07": 23
     }
   },
   {
