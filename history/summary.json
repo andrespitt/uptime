@@ -37,17 +37,17 @@
     "slug": "v-stream",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.73%",
     "time": 1331,
     "timeDay": 1886,
     "timeWeek": 2096,
     "timeMonth": 2150,
     "timeYear": 1348,
     "dailyMinutesDown": {
-      "2024-03-31": 0,
+      "2024-03-31": 24,
       "2023-09-09": 1059,
       "2023-09-08": 315
     }
