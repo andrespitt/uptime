@@ -8,7 +8,7 @@
     "uptime": "98.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "57.83%",
+    "uptimeMonth": "57.80%",
     "uptimeYear": "93.66%",
     "time": 1607,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 1046,
     "timeYear": 1588,
     "dailyMinutesDown": {
-      "2024-04-23": 677,
+      "2024-04-23": 690,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -71,14 +71,14 @@
     "url": "https://pharmacomms.tv/",
     "icon": "https://icons.duckduckgo.com/ip3/pharmacomms.tv.ico",
     "slug": "pharmacomms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "60.66%",
+    "uptimeDay": "60.65%",
     "uptimeWeek": "75.81%",
-    "uptimeMonth": "93.46%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "93.51%",
+    "uptimeYear": "99.46%",
     "time": 6396,
-    "timeDay": 14169,
+    "timeDay": 14397,
     "timeWeek": 10706,
     "timeMonth": 9404,
     "timeYear": 6706,
@@ -95,7 +95,7 @@
       "2024-04-09": 23,
       "2024-04-08": 50,
       "2024-04-03": 116,
-      "2024-04-02": 163
+      "2024-04-02": 139
     }
   },
   {
