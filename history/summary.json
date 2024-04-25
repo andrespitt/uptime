@@ -6,8 +6,8 @@
     "slug": "v-stream-health",
     "status": "up",
     "uptime": "97.87%",
-    "uptimeDay": "10.07%",
-    "uptimeWeek": "1.44%",
+    "uptimeDay": "11.07%",
+    "uptimeWeek": "1.58%",
     "uptimeMonth": "50.63%",
     "uptimeYear": "93.06%",
     "time": 1603,
@@ -73,11 +73,11 @@
     "url": "https://pharmacomms.tv/",
     "icon": "https://icons.duckduckgo.com/ip3/pharmacomms.tv.ico",
     "slug": "pharmacomms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "56.66%",
-    "uptimeWeek": "70.17%",
-    "uptimeMonth": "93.13%",
+    "uptimeDay": "56.76%",
+    "uptimeWeek": "70.39%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 7060,
     "timeDay": 13984,
@@ -91,7 +91,7 @@
       "2024-04-22": 518,
       "2024-04-21": 445,
       "2024-04-20": 420,
-      "2024-04-19": 139
+      "2024-04-19": 116
     }
   },
   {
